@@ -7,8 +7,8 @@ from datetime import datetime
 
 # ================== CONFIG ==================
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")          # Render ENV
-CHAT_IDS = os.getenv("CHAT_IDS", "").split(",")
+BOT_TOKEN = os.getenv("8534825085:AAF0cuTkH5w4WTLSeBnUPJvLQ5FIjXbs9oc")          # Render ENV
+CHAT_IDS = os.getenv("-1003312741895", "").split(",")
 
 CHECK_DELAY = 15  # seconds
 DB_FILE = "shein.db"
